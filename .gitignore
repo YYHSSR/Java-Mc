@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+gradle-home/
+build/
+out/
+bin/
+
+# Minecraft Forge run environments & logs
+run/
+run-data/
+*.log
+
+# DataGen cache
+src/generated/resources/.cache/
+
+# Built jars (rebuild from source)
+mods/mods/*.jar
+
+# IDEs
+.idea/
+*.iml
+*.launch
+.classpath
+.project
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# AI workspace temp
+AI/temp/*
+!AI/temp/.gitkeep

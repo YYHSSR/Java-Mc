@@ -1,0 +1,12 @@
+{
+  "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-17.0.20_8",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Program Files\\Java\\jdk-17.0.20_8",
+      "default": true
+    }
+  ],
+  "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-17.0.20_8",
+  "java.import.gradle.user.home": "E:\\CODE\\Java-Mc\\mods\\gradle-home"
+}
